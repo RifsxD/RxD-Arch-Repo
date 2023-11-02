@@ -3,4 +3,4 @@
          
           [rxd-arch-repo]
           SigLevel = Optional DatabaseOptional
-          Server = https://raw.githubusercontent.com/RifsxD/rxd-arch-repo/main/x86_64
+          Server = https://raw.githubusercontent.com/rifsxd/rxd-arch-repo/main/$repo/$arch
